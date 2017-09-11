@@ -3,26 +3,25 @@
 <title>层模型</title>
 </head>
   <style>
-      div{
+       div{
 		 width:200px;
 		 height:200px;
 		 border:2px red solid;
-		  }
+		 }
      #div1{
 		 position:absolute;
 		 left:200px;
 		 top:200px;
 		 }
-	 #div2{
+     #div2{
 		 position:relative;
 		 left:100px;
 		 }
-	 #div3{
+     #div3{
 		 position:fixed;
 		 right:0;
 		 bottom:0;
-		 }
-		  	 
+		 }		  	 
   </style>
 <body>
    <div>11</div>

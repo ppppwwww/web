@@ -1,0 +1,30 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<form>
+   <label>性别：</label>
+   <input type="radio" id="man" name="sex" checked="checked" />
+   <label for="man">男</label>
+   <input type="radio" id="women" name="sex" />
+   <label for="women">女</label><br />
+   <label>爱好：</label>
+   <input type="checkbox" value="打篮球" name="hobby1" id="ball" />
+   <label for="ball">打篮球</label>
+   <input type="checkbox" value="健身" name="hobby2" id="sport" />
+   <label for="sport">健身</label>
+   <input type="checkbox" value="宅" name="hobby3" id="zhai" checked="checked" />
+   <label for="zhai">宅</label> <br />
+   <label for="age">年龄：</label>
+   <select id="age">
+   <option value="18">18</option>
+   <option value="19">19</option>
+   <option value="20">20</option>
+   </select><br/>
+   <input type="submit" value="提交" />
+   <input type="reset" value="重置" />
+</form>
+</body>
+</html>

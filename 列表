@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> p标签</title>
+</head>
+<body>
+<ul type="disc"><li>我的第一个列表信息</li></ul>
+<ul type="circle"><li>我的第一个列表信息</li></ul>
+<ul type="square"><li>我的第一个列表信息</li></ul>
+
+</body>
+</html>
